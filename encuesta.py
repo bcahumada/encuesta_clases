@@ -1,6 +1,7 @@
 from pregunta import Pregunta
 from listado_respuestas import ListadoRespuestas
 
+
 class Encuesta:
     """Representa una encuesta genérica."""
 

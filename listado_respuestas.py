@@ -3,6 +3,7 @@ from respuesta import Respuesta
 from pregunta import Pregunta
 #from encuesta import Encuesta
 
+
 class ListadoRespuestas:
     """Representa una lista de respuestas de un usuario a una encuesta."""
     

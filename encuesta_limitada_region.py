@@ -1,6 +1,7 @@
 from encuesta import Encuesta
 from listado_respuestas import ListadoRespuestas
 
+
 class EncuestaLimitadaRegion(Encuesta):
     """Representa una encuesta limitada a usuarios de ciertas regiones."""
 

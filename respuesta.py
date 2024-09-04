@@ -1,5 +1,6 @@
 from pregunta import Pregunta
 
+
 class Respuesta:
     """Representa una respuesta individual a una pregunta."""
 

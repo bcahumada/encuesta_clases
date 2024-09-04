@@ -1,6 +1,7 @@
 from encuesta import Encuesta
 from listado_respuestas import ListadoRespuestas
 
+
 class EncuestaLimitadaEdad(Encuesta):
     """Representa una encuesta limitada a usuarios dentro de un rango de edad."""
 

@@ -37,3 +37,4 @@ class Usuario:
     def establecer_region(self, region: int):
         """Establece la región del usuario."""
         self.__region = region
+        

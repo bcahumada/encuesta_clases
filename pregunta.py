@@ -92,3 +92,4 @@ class Pregunta:
             return respuesta in [alt.obtener_contenido() for alt in self.__alternativas]
         else:
             return False
+        
