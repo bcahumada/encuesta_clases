@@ -205,4 +205,4 @@ Desde la terminal ejecuta el archivo con el comando python main_encuesta_interac
 
 ## Autor
 - Bárbara HA
-- GitHub: https://github.com/bcahumada
+- GitHub: https://github.com/bcahumada/
